@@ -1,6 +1,4 @@
-灯塔服务端2.0
-
-Youtube：米月
+trojan服务端2.0
 
 电报群：https://t.me/mi_yue
 
